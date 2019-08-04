@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/cin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ponzico.win
+  * I am cin (https://keybase.io/cin) on keybase.
+  * I have a public key with fingerprint E31C 4FA7 E997 9325 A0AF  B9D2 87D0 93B5 265A 4FD3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019a3a7ecc6a82d992817b180305677dd4010bfa556bef4bad3049568ee4628f3c0a",
+            "fingerprint": "e31c4fa7e9979325a0afb9d287d093b5265a4fd3",
+            "host": "keybase.io",
+            "key_id": "87d093b5265a4fd3",
+            "kid": "0101e8904c21de6e8320b4fdc1a9e849fcbbed08519f029ee21c2f052096a6eb413b0a",
+            "uid": "d065fcf0c9df7b672f2fab30afae2119",
+            "username": "cin"
+        },
+        "service": {
+            "hostname": "ponzico.win",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1496112623,
+    "expire_in": 157680000,
+    "prev": "2902e6d06adb4ca4f068b44b113c56cbd7eabdbedc587fcedbfd304807970377",
+    "seqno": 92,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.71
+Comment: https://keybase.io/crypto
+
+yMNsAnicbZJ9UFRVGMZ3EeIrJyJIocngCqSwwP2+9ywijY41RQhBE9nawD33nrvc
+gN1ld2H5GGUQMAWMgYYEasgiSRPFSJOwacRxmhySYsKUbGXAHS0iDbAPIKqzjFP/
+dP45c875Pc953vecC6tX6YL0r379+um4lzK/0Q8PtZbqdhjcd6oIaFUqCGMVUYhW
+JlSkIIczr1BTCCNBUiQFJEYSkCzzkkgrANAiJUBKJBmS4wVBUVjMQFXiOB4ilYWS
+wpAs4HgRIZanRZWRSYkwEKpmMSO7za5ZnNgWMZTMqtgVAAEwNCeRkgqBQouCQgIG
+cjTPSayqMFhYYHV4FTgclBwoSbPiPbzIW4n3P/x/uZEISFamKQXxSGRoEmJCpiSA
+RBaoMoRIIUWOAipJA4RoSqZVkqNJwEs8gizFwJXcpSt2CslzqqySMlBUAfICrdKq
+BBmcWsJKCnhBB7JbpGKEaVmzELsMBN4o02Tk7am3iHuHNqulUpOtSS4MGQib3eq0
+ytYifFDgdNocRq/QWWHzki4E8+555EHNouAOYkUZsjs0q4UwUpiUnZrXlGIBT1E0
+TzMGApXbNDvK07wEJ/AiiYf3HlSGLWlA0ojH1UgKZGXcMpIXIctCimJkjpehIiAJ
+KrgzMicKqowUqHqfUyQFIJCMIBDeqkosVsIIaJxTMmNPh2a2SM5SOyJ2nR/a6avT
+B+nu8/Pxfi1dUGDIvx/udIiu56rv7un0rUlPxFT0mbuPTrmfOfF7r+kTH+P5tfvO
+Cr3blDWPD9e7wlL9jw4uDW2/YFjYM5jDNDbvZ69/7wq82XYju3Y4RdgdkZ9WnJl5
+Ln7V+JxfzmzbQkCsf0B3Uc/JpTeaDeLddfuvPR9e6jv11aYr1QfrBsyPrH8h2XS1
+v3GxumGmIyrm0xSp66Gm47+OtH2kAUhO7Iwd9FyXc67sWZ07Pxs9k3VuUb6/Jt3j
+n7X3gYdHOztGJ3PaI468PRoXmmbpi3H3mYNnNn3cHjHhZ3Jd/qssOCx/+9N/j/os
+/3SbNm0cufGcduldyiMtug5cBi8mpomhjbcSayNbY+e27nNlL71GVGwJ/e2dJnOC
+cqKnur5yogvEhv9iGEpVlo/XFqQbottP/XHzGJUuZjQEGPnyls1TGQXGzgf5BJ3+
+rYutPZFPlow/lXBybW60Z0Ph/OSOOxflwFtDUSme95ID4r5wf9Y0Hhb+XROIX350
+IQZ9GS/QSamJkTW9j62J3Nueejixq2XA9i29+YesZ8vLTh2urSJG1uVe628eO/Sn
+rmu97sPJqGT9SEHIsfq+rE4T2jh9Rp/0s1R9yVTjM3AwZSz/zGBlnafo9oCbDe6f
+0xo+n+/snTccgRlxOR3drR/wd+tKX4bF284yQe/7ZvdumPixvigAzb5S4o5rqYh9
+89D0WHGx7kBUxz9y4Lfo
+=wfAe
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cin
+
+==================================================================
